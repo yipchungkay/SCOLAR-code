@@ -1,0 +1,4 @@
+﻿chinese	jyutping	IPA	label
+喎	wo3	wɔ	wo3
+囉	lo1	lɔ	lo1
+呢	le1	lɛ	le1

@@ -1,0 +1,63 @@
+word	jyutping	frequency.group	condition	percent.different	alternate.forms
+自己	zi6.gei2	high	CDS	43.07692307692308	tsi.ji
+自己	zi6.gei2	high	ADS	50.57471264367817	tsi.ji
+或者	waak9.ze2	high	CDS	16.666666666666664	wɐt.tsɛ/waː.tsɛ/wə.tsɛ
+或者	waak9.ze2	high	ADS	7.228915662650602	wɐt.tsɛ/waːt.tsɛ/waː.tsɛ/wə.tsɛ
+朋友	pang4.jau5	high	CDS	14.285714285714285	pʰɐn.jɐu/pʰə.jɐu
+朋友	pang4.jau5	high	ADS	18.75	pʰɐn.jɐu/pʰə.jɐu
+所以	so2.ji5	high	CDS	9.523809523809524	sɔ.i
+所以	so2.ji5	high	ADS	7.142857142857142	sɔ.i
+知道	zi1.dou6	high	CDS	100	
+知道	zi1.dou6	high	ADS	100	
+不過	bat7.gwo3	high	CDS	6.666666666666667	fɐu.ɔ/pɐt.ɔ/pɐt.kɔ
+不過	bat7.gwo3	high	ADS	31.57894736842105	pɐt.ɔ/pɐt.kɔ/fɐu.ɔ/fɐu.kɔ/pɐt.kʷʰɔ/fɐu.kʷʰɔ/fɐu.kʷɔ
+呢個	{li1.go3|ni1.go3}	high	CDS	0	li.kɔ/li.kə/ə.ŋɔ/li.ɔ/nei.kɔ/lɛ.ɔ/ɛ.ɔ/ɛ.kə/lə.ŋɔ/lɛ.kə/lɛ.kɔ/i.kɔ/li.ŋɔ/lei.kɔ/lei.ə/lei.kə/ji.kɔ/lɛ.ə/ə.kɔ/nə.ŋɔ/ɛ.kɔ/jɛ.kə/ɛ.ŋɔ/jɛ.kɔ/nə.ɔ/li.ə/ji.ə/ji.ɔ/nɛ.kə/lə.ə/lɛ.ŋɔ/i.kə/ɛ.ə/ə.ə/i.ə/ji.kə/nei.ə/nɛ.kɔ/i.ɔ/ə.kə/jɛ.ə/lei.ŋɔ/ni.ŋɔ/lə.ɔ/lə.kə/nei.kə/ji.ŋɔ/lei.ɔ/jɛ.ɔ/nɛ.ɔ/nɛ.ə/nei.ɔ/ni.ə/nə.kɔ/lə.kɔ/nə.kə/ə.ɔ/i.ŋɔ/ni.kə/nə.ə/jɛ.ŋɔ/ni.kɔ/ni.ɔ/nɛ.ŋɔ
+呢個	{li1.go3|ni1.go3}	high	ADS	0	ɛ.kɔ/i.ə/ə.ə/i.kə/i.kɔ/li.kɔ/ɛ.ə/lei.kɔ/lɛ.kɔ/lei.ə/lɛ.ə/ni.kɔ/ji.ɔ/li.kə/ji.kə/ə.kə/jɛ.ə/lə.kɔ/lə.kə/li.ɔ/li.ŋɔ/ji.kɔ/lei.kə/lɛ.ɔ/li.ə/lɛ.kə/lə.ə/ɛ.kə/i.ɔ/nɛ.kə/nei.ə/ɛ.ŋɔ/ə.ɔ/lə.ŋɔ/ɛ.ɔ/lei.ɔ/nɛ.kɔ/nei.kə/ni.ɔ
+我哋	{ngo5.dei6|o5.dei6}	high	CDS	0	ɔ.tei/mɔ.tei/ŋɔ.tei
+我哋	{ngo5.dei6|o5.dei6}	high	ADS	0	ɔ.tei/mɔ.tei/ŋɔ.tei
+嗰個	go2.go3	high	CDS	38.63636363636363	kɔ.kə/kɔ.ə/kɔ.ŋɔ/kɔ.ɔ
+嗰個	go2.go3	high	ADS	39.30348258706468	kɔ.ə/kɔ.ɔ/kɔ.ŋɔ/kɔ.kə
+但係	daan6.hai6	high	CDS	1.9230769230769231	tə.ə/taː.ə/tə.lei/tə.ɐi/tə.haː/taː.haːi/taː.hɐi/taː.ɐi/taːn.lei/tə.hɐi/tɐi.ə/tɐi.lei/taːn.ə/taːi.ɐi
+但係	daan6.hai6	high	ADS	4.074074074074074	tə.ɐi/taː.ɐi/tə.hɐi/taːi.ə/taːn.haːi/tə.ə/tə.hə/tə.haː/taː.hɐi/taː.ə/tə.haːi/taːi.haːi/taːn.ə/tɐi.haː/taː.lei/taːn.lei/tɐi.hə/taːn.ɐi/tɐi.hɐi/tə.lei/tɐi.ə/taː.haːi/taːn.haː/taː.hə/taːn.hə/taː.haː/taːi.hə/taːi.lei/taːi.ɐi
+其實	kei4.sat9	high	CDS	50	kei.sɐt/ɐi.sɐt
+其實	kei4.sat9	high	ADS	46.98795180722892	kei.sɐt/ɐi.sɐt/kʰɐi.sɐt
+唔係	m4.hai6	high	CDS	0	m.hɐi/ŋ.ɐi/ŋ.hɐi/ŋ.ə/ŋ.hə/m.ə/ŋ.lei/m.ɐi/m.haːi/m.lei/m.haː/ŋ.haːi/m.hə/ŋ.haː
+唔係	m4.hai6	high	ADS	0	m.ə/m.ɐi/ŋ.hə/ŋ.hɐi/ŋ.ɐi/ŋ.haː/ŋ.ə/m.haːi/m.hə/m.haː/m.lei/ŋ.haːi/m.hɐi/ŋ.lei
+就係	zau6.hai6	high	CDS	0	jə.ɐi/ɐu.hɐi/ə.ə/jə.hɐi/ə.lei/tsə.hɐi/tsɐi.lei/jə.lei/ɐu.lei/tsə.ɐi/jə.ə/ə.hə/tsə.ə/ə.ɐi/ɐu.ɐi
+就係	zau6.hai6	high	ADS	11.363636363636363	tsɐi.hə/tsə.hɐi/tsɐi.ə/ə.ə/tsɐu.haːi/jə.haː/tsə.ə/tsə.ɐi/jə.lei/tsə.haːi/jə.hɐi/ɐu.hɐi/ɐu.haːi/ə.lei/tsə.lei/tsə.hə/tsɐu.haː/jə.ɐi/ə.haː/tsɐi.ɐi/tsɐu.hə/tsə.haː/ə.ɐi/tsɐi.lei/ə.haːi/ɐu.lei/jə.ə/ə.hɐi/tsɐu.ə
+可以	ho2.ji5	high	CDS	15.789473684210526	hɔ.i
+可以	ho2.ji5	high	ADS	37.301587301587304	hɔ.i
+覺得	gok8.dak7	high	CDS	50	kaːu.tə/kaːu.tɐk/kɔk.tə
+覺得	gok8.dak7	high	ADS	42.15686274509804	kaːu.tɐk/kaːu.tə/kɔk.tə
+如果	jyu4.gwo2	high	CDS	20	jy.ɔ/jy.ku
+如果	jyu4.gwo2	high	ADS	20.224719101123593	jy.ɔ/jy.ku
+而家	ji4.gaa1	high	CDS	63.934426229508205	ji.tsɛ/ji.ku
+而家	ji4.gaa1	high	ADS	91.81818181818183	ji.tsɛ/ji.ku/ji.ə
+以前	ji5.cin4	mid	CDS	80	i.tsʰin
+以前	ji5.cin4	mid	ADS	54.54545454545454	i.tsʰin
+然後	jin4.hau6	mid	CDS	38.46153846153847	in.ɐu/jin.ɐu/ji.ɐu/ji.hɐu/in.hɐu
+然後	jin4.hau6	mid	ADS	56.38297872340425	in.hɐu/in.ɐu/ji.hɐu/jin.ɐu/ji.ɐu
+考慮	haau2.leoi6	mid	CDS	NA	
+考慮	haau2.leoi6	mid	ADS	100	
+辛苦	san1.fu2	mid	CDS	100	
+辛苦	san1.fu2	mid	ADS	100	
+雖然	seoi1.jin4	mid	CDS	NA	
+雖然	seoi1.jin4	mid	ADS	0	sɵy.in
+先生	sin1.saang1	mid	CDS	57.14285714285714	si.saːŋ/sin.sɐŋ
+先生	sin1.saang1	mid	ADS	44.44444444444444	si.saːŋ/sin.sɐŋ
+放棄	fong3.hei3	mid	CDS	100	
+放棄	fong3.hei3	mid	ADS	NA	
+做嘢	zou6.je5	mid	CDS	0	tɕou.jɛ
+做嘢	zou6.je5	mid	ADS	16.666666666666664	tɕou.jɛ
+唔敢	m4.gam2	mid	CDS	NA	
+唔敢	m4.gam2	mid	ADS	0	ŋ.kɐm
+報紙	bou3.zi2	mid	CDS	NA	
+報紙	bou3.zi2	mid	ADS	100	
+電腦	{din6.lou5|din6.nou5}	mid	CDS	NA	
+電腦	{din6.lou5|din6.nou5}	mid	ADS	0	tin.lou/ti.nou/ti.lou/tin.nou
+重要	zung6.jiu3	mid	CDS	NA	
+重要	zung6.jiu3	mid	ADS	0	tsoŋ.jiu/tsoŋ.ji/tsoŋ.iu/tsʰoŋ.iu
+論盡	leon6.zeon6	low	CDS	100	
+論盡	leon6.zeon6	low	ADS	NA	
+打算	daa2.syun3	low	CDS	NA	
+打算	daa2.syun3	low	ADS	0	taː.ɕyn
